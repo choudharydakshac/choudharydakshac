@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋 I'm Daksha Choudhary
 
-<!--
-**choudharydakshac/choudharydakshac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior Laravel Backend Engineer | PHP Developer | API & SaaS Specialist
 
-Here are some ideas to get you started:
+Backend Engineer with **12+ years of professional experience** building scalable web applications using **PHP** and **Laravel**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy designing secure backend systems, REST APIs, SaaS platforms, event-driven applications, payment integrations, and high-performance business applications.
+
+---
+
+## 🚀 About Me
+
+- 💼 Senior Backend Engineer
+- 🌱 Currently building production-ready Laravel portfolio projects
+- ⚡ Passionate about clean architecture and scalable systems
+- 🎯 Looking for Senior Laravel Backend Engineer opportunities
+- 🌍 Open to Remote and International opportunities
+
+---
