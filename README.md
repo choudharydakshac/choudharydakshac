@@ -107,8 +107,3 @@ Currently working on building production-ready Laravel backend projects focused 
 - 💻 Upwork *(Coming Soon)*
 - 📧 Email: choudharydakshac@gmail.com
 
-## 📊 GitHub Stats
-
-![Daksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=choudharydakshac&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=choudharydakshac&layout=compact)
